@@ -1,0 +1,41 @@
+
+
+#EXTM3U
+#EXTINF:-1 tvg-id="benficatv1.pt" tvg-name="PT: BENFICA TV HEVC" tvg-logo="https://www.monpetitforfait.com/comparateur-box-internet/wp-content/uploads/2020/06/benfica-tv.png" group-title="Portugal",PT: BENFICA TV HEVC
+http://799139845903755658.ofk0601.xyz:80/play/fe1108765/fuuVmcwh959Q/755658.ts
+#EXTINF:-1 tvg-id="benficatv1.pt" tvg-name="PT: BENFICA FHD" tvg-logo="http://tudoaqui.xyz/LOGOS/picons/Benfica_TV_1.png" group-title="Portugal",PT: BENFICA FHD
+http://799139845903799120.ofk0601.xyz:80/play/fe1108765/fuuVmcwh959Q/799120.ts
+#EXTINF:-1 tvg-id="benficatv1.pt" tvg-name="PT: BENFICA TV FHD" tvg-logo="https://www.monpetitforfait.com/comparateur-box-internet/wp-content/uploads/2020/06/benfica-tv.png" group-title="Portugal",PT: BENFICA TV FHD
+http://799139845903850242.ofk0601.xyz:80/play/fe1108765/fuuVmcwh959Q/850242.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: BTV HD" tvg-logo="" group-title="Portugal",PT: BTV HD
+http://799139845903851883.ofk0601.xyz:80/play/fe1108765/fuuVmcwh959Q/851883.ts
+#EXTINF:-1 tvg-id="benficatv1.pt" tvg-name="PT: BENFICA TV HEVC" tvg-logo="https://www.monpetitforfait.com/comparateur-box-internet/wp-content/uploads/2020/06/benfica-tv.png" group-title="Portugal",PT: BENFICA TV HEVC
+http://430157538976755658.ofk0601.xyz:80/play/Kurrit921D/641590179M121/755658.ts
+#EXTINF:-1 tvg-id="benficatv1.pt" tvg-name="PT: BENFICA FHD" tvg-logo="http://tudoaqui.xyz/LOGOS/picons/Benfica_TV_1.png" group-title="Portugal",PT: BENFICA FHD
+http://430157538976799120.ofk0601.xyz:80/play/Kurrit921D/641590179M121/799120.ts
+#EXTINF:-1 tvg-id="benficatv1.pt" tvg-name="PT: BENFICA TV FHD" tvg-logo="https://www.monpetitforfait.com/comparateur-box-internet/wp-content/uploads/2020/06/benfica-tv.png" group-title="Portugal",PT: BENFICA TV FHD
+http://430157538976850242.ofk0601.xyz:80/play/Kurrit921D/641590179M121/850242.ts
+#EXTINF:-1 tvg-id="benficatv1.pt" tvg-name="PT: BENFICA TV HEVC" tvg-logo="https://www.monpetitforfait.com/comparateur-box-internet/wp-content/uploads/2020/06/benfica-tv.png" group-title="Portugal",PT: BENFICA TV HEVC
+http://934189609995755658.ofk0601.xyz:80/live/hu213966/B@KrxK7DQGXe/755658.ts
+#EXTINF:-1 tvg-id="benficatv1.pt" tvg-name="PT: BENFICA FHD" tvg-logo="http://tudoaqui.xyz/LOGOS/picons/Benfica_TV_1.png" group-title="Portugal",PT: BENFICA FHD
+http://934189609995799120.ofk0601.xyz:80/live/hu213966/B@KrxK7DQGXe/799120.ts
+#EXTINF:-1 tvg-id="benficatv1.pt" tvg-name="PT: BENFICA TV FHD" tvg-logo="https://www.monpetitforfait.com/comparateur-box-internet/wp-content/uploads/2020/06/benfica-tv.png" group-title="Portugal",PT: BENFICA TV FHD
+http://934189609995850242.ofk0601.xyz:80/live/hu213966/B@KrxK7DQGXe/850242.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: BTV HD" tvg-logo="" group-title="Portugal",PT: BTV HD
+http://934189609995851883.ofk0601.xyz:80/live/hu213966/B@KrxK7DQGXe/851883.ts
+#EXTINF:-1 tvg-id="benficatv1.pt" tvg-name="PT: BENFICA FHD" tvg-logo="http://tudoaqui.xyz/LOGOS/picons/Benfica_TV_1.png" group-title="Portugal",PT: BENFICA FHD
+http://691210543688799120.ofk0601.xyz:80/play/KHXX6JAHRL/UN5rUuHMC5t/799120.ts
+#EXTINF:-1 tvg-id="benficatv1.pt" tvg-name="PT: BENFICA TV FHD" tvg-logo="https://www.monpetitforfait.com/comparateur-box-internet/wp-content/uploads/2020/06/benfica-tv.png" group-title="Portugal",PT: BENFICA TV FHD
+http://691210543688850242.ofk0601.xyz:80/play/KHXX6JAHRL/UN5rUuHMC5t/850242.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: BTV HD" tvg-logo="" group-title="Portugal",PT: BTV HD
+http://477222195778851883.ofk0601.xyz:80/live/QINnGDAO/SjPqFaGm/851883.ts
+#EXTINF:-1 tvg-id="benficatv1.pt" tvg-name="PT: BENFICA TV FHD" tvg-logo="https://www.monpetitforfait.com/comparateur-box-internet/wp-content/uploads/2020/06/benfica-tv.png" group-title="Portugal",PT: BENFICA TV FHD
+http://62023509268850242.ofk0601.xyz:80/play/me419345/XQg9uYeEwa/850242.ts
+
+
+https://raw.githubusercontent.com/rogeriofrei/BENFICA-PORTUGAL/main/BENFICA%20PORTUGAL.txt
+
+
+
+
+
